@@ -20,7 +20,7 @@ There are several things we require from **all developers** for the moment.
 
 **Telegram for Android**
 
-[<img src="" width="200" height="auto">](https://github.com/TelegramOfficial)
+[<img src="https://github.com/TelegramOfficial/Android/blob/main/Assets/Screenshot.jpeg" width="200" height="auto">](https://github.com/TelegramOfficial)
 
 You can download Telegram for your Android device here. This version has fewer restrictions and receives automatic updates directly from [telegram.org](https://telegram.org)
 
@@ -28,14 +28,11 @@ You can download Telegram for your Android device here. This version has fewer r
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://telegram.org/dl/android/apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
-[<img src="" width="200" height="auto">](https://github.com/TelegramOfficial)
+[<img src="https://github.com/TelegramOfficial/Android/blob/main/Assets/DownloadSetup.gif" width="200" height="auto">](https://github.com/TelegramOfficial)
 
 **How to Install Telegram?**
 
 This video shows how to install Telegram on your Android device. See this page for detailed steps on various versions of Android.
-
-
-
 
 More comfortable with installing apps
 from the Google Play Store?
